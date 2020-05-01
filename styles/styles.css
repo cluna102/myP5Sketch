@@ -1,0 +1,14 @@
+body {
+    font-size: 30px;
+    font-weight: 500px;
+    margin: 20px;
+    background-color: #212422;
+    color: cornsilk;
+}
+
+h1 {
+    font-family: Impact, sans-serif;
+    text-transform: uppercase;
+    color: blueviolet;
+    font-weight: 50;
+}
